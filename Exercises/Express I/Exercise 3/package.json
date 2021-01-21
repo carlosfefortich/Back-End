@@ -1,0 +1,15 @@
+{
+  "name": "exercise-3",
+  "version": "1.0.0",
+  "description": "API Restful for the characteristics of phones.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Carlos Fortich",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
